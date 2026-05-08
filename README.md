@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 ShopVinci — Plataforma de Tienda en Línea
 
 Proyecto del semestre — Ingeniería de Software 1 | Universidad Da Vinci de Guatemala | 2026
@@ -106,3 +107,7 @@ npm test
 ## Catedrático
 
 Ing. Raúl Hernández Reyna — Ingeniería de Software 1 — 1er Semestre 2026
+=======
+# shopvinci
+Plataforma de tienda en línea — Proyecto ISW1 2026
+>>>>>>> a0efb74f5736f7720b90f6f05925582ed2fc44da
